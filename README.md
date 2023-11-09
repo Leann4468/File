@@ -78,7 +78,8 @@ class HelloWorld
 }
 ```
 ## Output:
-![Screenshot (55)](https://github.com/TejaswiniGugananthan/File/assets/121222763/e8354428-f735-4fb4-8418-fa8da42d0b98)
+![image](https://github.com/Leann4468/File/assets/121165979/93cf6635-abe2-4f68-88ec-9555be2671a0)
+
 
 ## Result:
 Thus a C# program to store the student details in file using structure concept is implemented successfully.
